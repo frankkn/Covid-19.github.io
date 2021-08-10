@@ -18,6 +18,7 @@ body{
 
 .items{
     padding:50px;
+    
     font-size:30px;
     color:navy;
     text-align: left;
@@ -27,14 +28,6 @@ body{
     background-color: aliceblue;
     grid-area:item1;
     text-align: center;
-}
-
-.item1 p{
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
 }
 
 .item2{
